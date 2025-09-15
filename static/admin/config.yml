@@ -1,0 +1,28 @@
+backend:
+  name: github
+  repo: tobias-who/sg-breitenguessbach-website # Replace with your repo
+  branch: main
+
+media_folder: "static/images/uploads" # Where to upload images
+public_folder: "/images/uploads"
+
+collections:
+  - name: "aktuelles"
+    label: "Aktuelles"
+    folder: "content/posts"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "veranstaltungen"
+    label: "Veranstaltungen"
+    folder: "content/events"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Event Title", name: "title", widget: "string"}
+      - {label: "Event Date", name: "date", widget: "datetime"}
+      - {label: "Description", name: "body", widget: "markdown"}
