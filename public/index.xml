@@ -1,19 +1,68 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Herzlich willkommen bei der SG Breitengüßbach on My New Hugo Site</title>
+    <link>https://example.org/</link>
+    <description>Recent content in Herzlich willkommen bei der SG Breitengüßbach on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 Sep 2025 17:44:15 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 30 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Ehrungsabend 30 05</title>
-      <link>http://localhost:1313/posts/ehrungsabend-30-05/</link>
-      <pubDate>Mon, 15 Sep 2025 17:44:15 +0200</pubDate>
-      <guid>http://localhost:1313/posts/ehrungsabend-30-05/</guid>
-      <description>&lt;p&gt;Wir feiern unsere langjährigen Mitglieder und besondere Leistungen beim Ehrungsabend am 30. Mai.&#xA;Alle Vereinsmitglieder sind herzlich eingeladen, gemeinsam einen feierlichen und geselligen Abend zu verbringen.&lt;/p&gt;</description>
+      <title>Aktuelles: Ehrungsabend und Schützenfest</title>
+      <link>https://example.org/posts/aktuelles/</link>
+      <pubDate>Fri, 30 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.org/posts/aktuelles/</guid>
+      <description>&lt;h3 id=&#34;ehrungsabend-am-3005&#34;&gt;Ehrungsabend am 30.05.&lt;/h3&gt;&#xA;&lt;p&gt;Wir feiern unsere langjährigen Mitglieder und besondere Leistungen beim Ehrungsabend am 30. Mai.&#xA;Alle Vereinsmitglieder sind herzlich eingeladen, gemeinsam einen feierlichen und geselligen Abend zu verbringen.&#xA;150 Jahre Zimmerstutzen Schützengesellschaft 1875 e.V. Burgebrach – 01.06.&#xA;Alle Mitglieder sind herzlich eingeladen unsere Gesellschaft beim Festzug zu begleiten. Siehe Aushang im Schützenhaus.&lt;/p&gt;&#xA;&lt;h3 id=&#34;schützenfest-mit-festzug-am-0806&#34;&gt;Schützenfest mit Festzug am 08.06.&lt;/h3&gt;&#xA;&lt;p&gt;Unser großes Schützenfest mit Festzug steht vor der Tür!&#xA;Am Sonntag, den 8. Juni, laden wir alle Mitglieder, Freunde, Familien und Gäste herzlich ein, mit uns zu feiern, unseren Festzug zu begleiten und die Gemeinschaft zu genießen.&#xA;Bei Speis und Trank mit musikalischer Untermalung freuen wir uns gemeinsam, unser altes Königshaus zu verabschieden und unser neues Königshaus bekannt zu geben.&#xA;Wie jedes Jahr bietet auch unsere Jugend wieder verschiedene Spiele für die kleinen Gäste an, sowie Stände, um einen Einblick in Schieß-Disziplinen wie Lichtpunkt oder Blasrohr zu geben.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Gaststätte</title>
+      <link>https://example.org/gaststaette/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/gaststaette/</guid>
+      <description>&lt;h2 id=&#34;gaststätte-schützenhaus-wiedereröffnet&#34;&gt;Gaststätte Schützenhaus wiedereröffnet!&lt;/h2&gt;&#xA;&lt;p&gt;Unsere Vereinsgaststätte verfügt über einen großen und schönen Gastraum mit 64 Sitzplätzen, sowie 74 Außensitzplätzen, welche im Sommer auch für einen Kellerbetrieb genutzt werden könnten. Hierfür ist eine Außenzapfanlage vorhanden.&lt;/p&gt;&#xA;&lt;p&gt;Die Gaststätte wurde 2019 renoviert. Eine Küche mit entsprechendem Kühlhaus, sowie Lagerräume, Toiletten und ausreichend Parkplätze sind vorhanden.&lt;/p&gt;&#xA;&lt;p&gt;Die Räumlichkeiten eignen sich nicht nur für Mittagstisch und Familienfeiern, sondern auch viele der Mitglieder, die vor Ort trainieren und Wettkämpfe austragen, sind Stammgäste in der Vereinsgaststätte.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Jugend</title>
+      <link>https://example.org/jugend/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/jugend/</guid>
+      <description>&lt;h2 id=&#34;jugendvorstand&#34;&gt;Jugendvorstand&lt;/h2&gt;&#xA;&lt;p&gt;Unser Jugendvorstand ist für die Betreuung und für das Training der Schützen der Altersklassen Schüler (12-14 Jahre), Jugendliche (14-18), Junioren I + II zuständig.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;1. Jugendleiter:&lt;/strong&gt; Lukas Martin&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;2. Jugendleiter:&lt;/strong&gt; Tobias Klehr&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Kassier:&lt;/strong&gt; Jonas Nüßlein&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Schriftführer:&lt;/strong&gt; Lukas Klehr&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;1. Jugendsprecher:&lt;/strong&gt; Falk Lang&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;luftgewehr&#34;&gt;Luftgewehr&lt;/h2&gt;&#xA;&lt;p&gt;Bei uns können Jugendliche ab 12 Jahren (mit einer Ausnahmegenehmigung des Landratsamts auch bereits mit 11 Jahren) mit der Disziplin Luftgewehr beginnen.&lt;/p&gt;&#xA;&lt;h2 id=&#34;luftpistole&#34;&gt;Luftpistole&lt;/h2&gt;&#xA;&lt;p&gt;Neben dem Luftgewehr bieten wir ebenfalls die Möglichkeit die Disziplin Luftpistole zu trainieren.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Kontakt</title>
+      <link>https://example.org/kontakt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/kontakt/</guid>
+      <description>&lt;h2 id=&#34;kontakt&#34;&gt;Kontakt&lt;/h2&gt;&#xA;&lt;h3 id=&#34;telefon-nur-zu-schießzeiten&#34;&gt;Telefon (nur zu Schießzeiten)&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Telefon:&lt;/strong&gt; +49 (09544) 98 30 36&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Telefax:&lt;/strong&gt; +49 (09544) 98 31 74&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;post&#34;&gt;Post&lt;/h3&gt;&#xA;&lt;p&gt;SG Breitengüßbach 1965 e.V.&#xA;Schützenstrasse 3&#xA;96149 Breitengüßbach&lt;/p&gt;&#xA;&lt;h3 id=&#34;e-mail&#34;&gt;E-Mail&lt;/h3&gt;&#xA;&lt;p&gt;seitenmeister(at)sg-breitenguessbach.de&lt;/p&gt;&#xA;&lt;h2 id=&#34;anfahrt&#34;&gt;Anfahrt&lt;/h2&gt;&#xA;&lt;iframe width=&#34;100%&#34; height=&#34;400&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; marginheight=&#34;0&#34; marginwidth=&#34;0&#34; src=&#34;https://www.openstreetmap.org/export/embed.html?bbox=10.8808,49.9908,10.8858,49.9928&amp;amp;layer=mapnik&amp;amp;marker=49.9918,10.8833&#34; style=&#34;border: 1px solid black&#34;&gt;&lt;/iframe&gt;&lt;br/&gt;&lt;small&gt;&lt;a href=&#34;https://www.openstreetmap.org/?mlat=49.9918&amp;amp;mlon=10.8833#map=19/49.9918/10.8833&#34;&gt;Größere Karte anzeigen&lt;/a&gt;&lt;/small&gt;</description>
+    </item>
+    <item>
+      <title>Mannschaften</title>
+      <link>https://example.org/mannschaften/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/mannschaften/</guid>
+      <description>&lt;h2 id=&#34;luftgewehr-mannschaften&#34;&gt;Luftgewehr Mannschaften&lt;/h2&gt;&#xA;&lt;h3 id=&#34;1-mannschaft&#34;&gt;1. Mannschaft&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Marco Haderlein&lt;/li&gt;&#xA;&lt;li&gt;Rainer Klehr&lt;/li&gt;&#xA;&lt;li&gt;Michael Eichhorn&lt;/li&gt;&#xA;&lt;li&gt;Lukas Klehr&lt;/li&gt;&#xA;&lt;li&gt;Tobias Klehr&lt;/li&gt;&#xA;&lt;li&gt;Lukas Martin&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;luftpistole-mannschaften&#34;&gt;Luftpistole Mannschaften&lt;/h2&gt;&#xA;&lt;h3 id=&#34;luftpistole-1&#34;&gt;Luftpistole 1&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Michael Pflaum&lt;/li&gt;&#xA;&lt;li&gt;Rainer Klehr&lt;/li&gt;&#xA;&lt;li&gt;Sven Böhnlein&lt;/li&gt;&#xA;&lt;li&gt;Dieter Schneider&lt;/li&gt;&#xA;&lt;li&gt;Benjamin Schneider&lt;/li&gt;&#xA;&lt;li&gt;Werner Klehr&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;luftgewehr-aufgelegt-mannschaften&#34;&gt;Luftgewehr Aufgelegt Mannschaften&lt;/h2&gt;&#xA;&lt;h3 id=&#34;1-mannschaft-1&#34;&gt;1. Mannschaft&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Edith Wolf&lt;/li&gt;&#xA;&lt;li&gt;Georg Radloff&lt;/li&gt;&#xA;&lt;li&gt;Günter Hermsen&lt;/li&gt;&#xA;&lt;li&gt;Erna Reinfelder&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;2-mannschaft&#34;&gt;2. Mannschaft&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Martin Franz&lt;/li&gt;&#xA;&lt;li&gt;Armin Nehrkorn&lt;/li&gt;&#xA;&lt;li&gt;Dieter Schneider&lt;/li&gt;&#xA;&lt;li&gt;Hilde Schneider&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;3-mannschaft&#34;&gt;3. Mannschaft&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Christine Klehr&lt;/li&gt;&#xA;&lt;li&gt;Barbara Kurz&lt;/li&gt;&#xA;&lt;li&gt;Rosi Aßmann&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;kkgk-mannschaften&#34;&gt;KK/GK Mannschaften&lt;/h2&gt;&#xA;&lt;h3 id=&#34;kk-sportpistole-1&#34;&gt;KK Sportpistole 1&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Wilhelm Bielawski&lt;/li&gt;&#xA;&lt;li&gt;Stefan Haderlein&lt;/li&gt;&#xA;&lt;li&gt;Dieter Schneider&lt;/li&gt;&#xA;&lt;li&gt;Marco Haderlein&lt;/li&gt;&#xA;&lt;li&gt;Benjamin Schneider&lt;/li&gt;&#xA;&lt;li&gt;Christoph Einwag&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;kk-sportpistole-2&#34;&gt;KK Sportpistole 2&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Klaus Ofen&lt;/li&gt;&#xA;&lt;li&gt;Michael Vogt&lt;/li&gt;&#xA;&lt;li&gt;Elmar Hanel&lt;/li&gt;&#xA;&lt;li&gt;Michael Pflaum&lt;/li&gt;&#xA;&lt;li&gt;Martin Franz&lt;/li&gt;&#xA;&lt;li&gt;Ullrich Gerd&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;gk-pistolerevolver&#34;&gt;GK Pistole/Revolver&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Wilhelm Bielawski&lt;/li&gt;&#xA;&lt;li&gt;Benjamin Schneider&lt;/li&gt;&#xA;&lt;li&gt;Dieter Schneider&lt;/li&gt;&#xA;&lt;li&gt;Franz Martin&lt;/li&gt;&#xA;&lt;li&gt;Elmar Hanel&lt;/li&gt;&#xA;&lt;li&gt;Michael Vogt&lt;/li&gt;&#xA;&lt;li&gt;Michael Eichhorn&lt;/li&gt;&#xA;&lt;li&gt;Marco Haderlein&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Senioren</title>
+      <link>https://example.org/senioren/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/senioren/</guid>
+      <description>&lt;h2 id=&#34;seniorenreferent&#34;&gt;Seniorenreferent&lt;/h2&gt;&#xA;&lt;p&gt;Unser Seniorenreferent ist Ansprechpartner für Seniorenschützen der SG Breitengüßbach. Zeitgleich organisiert er das Wettkampfschießen der Senioren in unserem Verein.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Seniorenreferent:&lt;/strong&gt; Günter Hermsen&lt;/p&gt;&#xA;&lt;h2 id=&#34;luftgewehr-auflage&#34;&gt;Luftgewehr Auflage&lt;/h2&gt;&#xA;&lt;p&gt;Der Großteil unserer Seniorenschützen schießt die Disziplin Luftgewehr Auflage. Der Unterschied zur Disziplin Luftgewehr ist dieser das bei Auflage das Gewehr nicht komplett im freien Stand gehalten, sondern auf einem Bock aufgelegt wird.&lt;/p&gt;&#xA;&lt;h2 id=&#34;wir-gratulieren&#34;&gt;Wir gratulieren&lt;/h2&gt;&#xA;&lt;p&gt;Beim diesjährigen 70. Gauschützentag wurde unser Referent Senioren und Gau – Senioren – Referent Eberhard Krause aufgrund seiner besonderen Verdienste im Schützengau Oberfranken West zum Gauehrenmitglied ernannt.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Veranstaltungen</title>
+      <link>https://example.org/veranstaltungen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/veranstaltungen/</guid>
+      <description>&lt;h2 id=&#34;jahresplan-2025&#34;&gt;Jahresplan 2025&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;06.01.2025&lt;/strong&gt; - Christbaumkugel-Gaudischießen für Jedermann&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;24.02. bis 04.04.2025&lt;/strong&gt; - Osterschießen (zu den normalen Schießzeiten)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;15.03.2025&lt;/strong&gt; - Festkommers 150 Jahre ZSTG. 1875 Burgebrach&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;13.04.2025&lt;/strong&gt; ab 15 Uhr - Osterscheibe und Pokalverteilung + Ostereiergaudischießen&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;10.03. bis 11.04.2025&lt;/strong&gt; - Bürgerschießen (Schießzeiten lt. Einladung)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;14.04. bis 21.04.2025&lt;/strong&gt; - Schießpause(Ostern)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;26.04.2025&lt;/strong&gt; - Jahreshauptversammlung&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;01.05.2025&lt;/strong&gt; - Maiwanderung&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;06.05.2025&lt;/strong&gt; - Muttertagsschießen&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;18.05.2025&lt;/strong&gt; - Festzug 100 Jahre Schützenverein Schönbrunn&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;01.04. bis 16.05.2025&lt;/strong&gt; - Königsschießen (Schießzeiten lt. Einladung)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;29.05. bis 15.06.2025&lt;/strong&gt; - Schießpause (Schützenfest)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;30.05.2025&lt;/strong&gt; - Ehrungsabend für Vereinsmitglieder&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;01.06.2025&lt;/strong&gt; - Festzug 150 Jahre ZSTG. 1875 Burgebrach&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;08.06.2025&lt;/strong&gt; - Schützenfest mit Festzug&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;06.08.2025 bis 15.09.2025&lt;/strong&gt; - Schießpause(Sommer)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;03.11. bis 28.11.2025&lt;/strong&gt; - Nikolausschießen (zu den normalen Schießzeiten)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;06.12.2025&lt;/strong&gt; - Nikolausfeier&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;20.12.2025&lt;/strong&gt; - Schießpause(Winter)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;06.01.2026&lt;/strong&gt; - Christbaumkugel-Gaudischießen&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Verein</title>
+      <link>https://example.org/verein/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/verein/</guid>
+      <description>&lt;h2 id=&#34;vorstandschaft&#34;&gt;Vorstandschaft&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;1. Vorstand:&lt;/strong&gt; Rainer Klehr&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;2. Vorstand:&lt;/strong&gt; Roman Lang&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Schriftführer:&lt;/strong&gt; Marco Haderlein&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Kassier:&lt;/strong&gt; Andreas Kunzmann&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Oberschützenmeister:&lt;/strong&gt; Benjamin Schneider&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;KK-Sportreferent:&lt;/strong&gt; Willhelm Belawski&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Senioren-Referent:&lt;/strong&gt; Günter Hermsen&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;1. Jugendleiter:&lt;/strong&gt; Lukas Martin&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;2. Jugendleiter:&lt;/strong&gt; Tobias Klehr&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;königshaus&#34;&gt;Königshaus&lt;/h2&gt;&#xA;&lt;p&gt;&lt;em&gt;(Content for this section is currently not available on the old website)&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;stände&#34;&gt;Stände&lt;/h2&gt;&#xA;&lt;p&gt;In unserer Schießhalle bieten wir 8 Elektronische-Stände und 11 Stände mit Seilzuganlage für Luftgewehr und Luftpistole an.&#xA;Des Weiteren haben wir 6 Stände auf denen Kleinkaliber und Großkaliber geschossen werden kann.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

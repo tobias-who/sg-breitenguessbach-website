@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on My New Hugo Site</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://example.org/posts/</link>
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 Sep 2025 17:44:15 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 30 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Ehrungsabend 30 05</title>
-      <link>http://localhost:1313/posts/ehrungsabend-30-05/</link>
-      <pubDate>Mon, 15 Sep 2025 17:44:15 +0200</pubDate>
-      <guid>http://localhost:1313/posts/ehrungsabend-30-05/</guid>
-      <description>&lt;p&gt;Wir feiern unsere langjährigen Mitglieder und besondere Leistungen beim Ehrungsabend am 30. Mai.&#xA;Alle Vereinsmitglieder sind herzlich eingeladen, gemeinsam einen feierlichen und geselligen Abend zu verbringen.&lt;/p&gt;</description>
+      <title>Aktuelles: Ehrungsabend und Schützenfest</title>
+      <link>https://example.org/posts/aktuelles/</link>
+      <pubDate>Fri, 30 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.org/posts/aktuelles/</guid>
+      <description>&lt;h3 id=&#34;ehrungsabend-am-3005&#34;&gt;Ehrungsabend am 30.05.&lt;/h3&gt;&#xA;&lt;p&gt;Wir feiern unsere langjährigen Mitglieder und besondere Leistungen beim Ehrungsabend am 30. Mai.&#xA;Alle Vereinsmitglieder sind herzlich eingeladen, gemeinsam einen feierlichen und geselligen Abend zu verbringen.&#xA;150 Jahre Zimmerstutzen Schützengesellschaft 1875 e.V. Burgebrach – 01.06.&#xA;Alle Mitglieder sind herzlich eingeladen unsere Gesellschaft beim Festzug zu begleiten. Siehe Aushang im Schützenhaus.&lt;/p&gt;&#xA;&lt;h3 id=&#34;schützenfest-mit-festzug-am-0806&#34;&gt;Schützenfest mit Festzug am 08.06.&lt;/h3&gt;&#xA;&lt;p&gt;Unser großes Schützenfest mit Festzug steht vor der Tür!&#xA;Am Sonntag, den 8. Juni, laden wir alle Mitglieder, Freunde, Familien und Gäste herzlich ein, mit uns zu feiern, unseren Festzug zu begleiten und die Gemeinschaft zu genießen.&#xA;Bei Speis und Trank mit musikalischer Untermalung freuen wir uns gemeinsam, unser altes Königshaus zu verabschieden und unser neues Königshaus bekannt zu geben.&#xA;Wie jedes Jahr bietet auch unsere Jugend wieder verschiedene Spiele für die kleinen Gäste an, sowie Stände, um einen Einblick in Schieß-Disziplinen wie Lichtpunkt oder Blasrohr zu geben.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
