@@ -2,9 +2,7 @@ backend:
   name: github
   repo: tobias-who/sg-breitenguessbach-website # Replace with your repo
   branch: main
-  # api_root: https://api.github.com
-  site_domain:
-  base_url:   
+  base_url: https://decap.tbs-cloud.eu
 
 
 media_folder: "static/images/uploads" # Where to upload images
