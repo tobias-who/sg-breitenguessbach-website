@@ -4,8 +4,8 @@ backend:
   branch: main
   # base_url: https://decap.tbs-cloud.eu
 
-media_folder: "static/images/uploads" # Where to upload images
-public_folder: "/images/uploads"
+media_folder: "static/images" # Where to upload images
+public_folder: "/images"
 
 collections:
   - name: "aktuelles"
